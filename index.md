@@ -1,16 +1,16 @@
 ## 📘 Índice do Glossário
 
 - [Administrador Paroquial](#administrador-paroquial)
-- [Associações de Fiéis](#associações-de-fiéis)
+- [Associações de Fiéis](#associacoes-de-fieis)
 - [Abadia Territorial](#abadia-territorial)
-- [Administração Apostólica Pessoal](#administração-apostólica-pessoal)
-- [Apocrisários](#apocrisários)
+- [Administração Apostólica Pessoal](#administracao-apostolica-pessoal)
+- [Apocrisários](#apocrisarios)
 - [Arquidiocese](#arquidiocese)
 - [Arquieparquia](#arquieparquia)
 - [Assembleia Geral](#assembleia-geral)
-- [Basílica (Instituição)](#basílica-instituição)
+- [Basílica Instituição](#basilica-instituicao)
 - [Bispo](#bispo)
-- [Basílica (Paróquia)](#basílica-paróquia)
+- [Basílica Paróquia](#basilica-paroquia)
 
 ---
 
@@ -74,7 +74,7 @@
 
 ---
 
-### 📌 Basílica (Instituição)  
+### 📌 Basílica Instituição  
 **Classificação:** Tipo de Instituição
 
 > *É o título dado pela Sé Apostólica, por meio da Congregação para o Culto Divino e a Disciplina dos Sacramentos, a uma igreja que possua importância histórica ou que possua grande afluxo de fiéis, como os santuários.*  
@@ -89,10 +89,7 @@
 
 ---
 
-### 📌 Basílica (Paróquia)  
+### 📌 Basílica Paróquia  
 **Classificação:** Tipo de Paróquia
 
 > *(Definição pendente)*
-
----
-
