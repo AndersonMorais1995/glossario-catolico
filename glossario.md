@@ -1,3 +1,10 @@
+## Índice
+
+- [Eucaristia](#eucaristia)
+- [Paróquia](#paróquia)
+- [Ministro Extraordinário da Comunhão](#ministro-extraordinário-da-comunhão)
+
+
 # Glossário da Igreja Católica
 
 ## Eucaristia
