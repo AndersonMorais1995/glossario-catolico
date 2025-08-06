@@ -1,77 +1,98 @@
-📖 Índice
-Administrador Paroquial
+## 📘 Índice do Glossário
 
-Associações de Fiéis
+- [Administrador Paroquial](#administrador-paroquial)
+- [Associações de Fiéis](#associações-de-fiéis)
+- [Abadia Territorial](#abadia-territorial)
+- [Administração Apostólica Pessoal](#administração-apostólica-pessoal)
+- [Apocrisários](#apocrisários)
+- [Arquidiocese](#arquidiocese)
+- [Arquieparquia](#arquieparquia)
+- [Assembleia Geral](#assembleia-geral)
+- [Basílica (Instituição)](#basílica-instituição)
+- [Bispo](#bispo)
+- [Basílica (Paróquia)](#basílica-paróquia)
 
-Abadia Territorial
+---
 
-Administração Apostólica Pessoal
+### 📌 Administrador Paroquial
 
-Apocrisários
+> *“Enquanto a sé se encontrar vaga ou impedida (pároco), pertence ao Administrador diocesano ou outrem que interinamente governe a diocese”.*  
+**Fonte:** Cân. 525
 
-Arquidiocese
+---
 
-Arquieparquia
+### 📌 Associações de Fiéis  
+**Classificação:** Entidade
 
-Assembleia Geral
+> *§ 1. Podem os fiéis, por meio de convênio privado, celebrado entre si, constituir associações para alcançarem os fins referidos no cân. 298, § 1, sem prejuízo do prescrito no cân. 301, § 1.*  
+**Fonte:** CDC Cân. 299 ao 311
 
-Basílica (Instituição)
+---
 
-Bispo
+### 📌 Abadia Territorial  
+**Classificação:** Tipo de Circunscrição Eclesiástica
 
-Basílica (Paróquia)
+> *A prelatura territorial ou a abadia territorial é uma porção do povo de Deus, circunscrita territorialmente, cujo cuidado pastoral, em virtude de circunstâncias especiais, é cometido a um Prelado ou Abade, que a governa como seu pastor próprio, à maneira de Bispo diocesano.*  
+**Fonte:** Cân. 370
 
-✝️ Administrador Paroquial
-“Enquanto a sé se encontrar vaga ou impedida (pároco), pertence ao Administrador diocesano ou outrem que interinamente governe a diocese”.
-📘 Fonte: Cân. 525
+---
 
-🙋 Associações de Fiéis
-📌 Classificação: Entidade
+### 📌 Administração Apostólica Pessoal  
+**Classificação:** Tipo de Circunscrição Eclesiástica
 
-§ 1. Podem os fiéis, por meio de convênio privado, celebrado entre si, constituir associações para alcançarem os fins referidos no cân. 298, § 1, sem prejuízo do prescrito no cân. 301, § 1.
-📘 Fonte: CDC Cân. 299 ao 311
+> *É uma determinada porção do povo de Deus que, por razões especiais e particularmente graves, não é erigida pelo Romano Pontífice como diocese e cujo cuidado pastoral é confiado a um Administrador Apostólico, que a governa em nome do Sumo Pontífice.*  
+**Fonte:** Anuário Católico do Brasil 2015
 
-🏛️ Abadia Territorial
-A prelatura territorial ou a abadia territorial é uma porção do povo de Deus, circunscrita territorialmente, cujo cuidado pastoral, em virtude de circunstâncias especiais, é cometido a um Prelado ou Abade, que a governa como seu pastor próprio, à maneira de Bispo diocesano.
-📘 Fonte: Cân. 370
+---
 
-🏢 Administração Apostólica Pessoal
-📌 Classificação: Tipos de Circunscrição Eclesiástica
+### 📌 Apocrisários  
+**Classificação:** Cargo histórico
 
-É uma determinada porção do povo de Deus que, por razões especiais e particularmente graves, não é erigida pelo Romano Pontífice como diocese e cujo cuidado pastoral é confiado a um Administrador Apostólico, que a governa em nome do Sumo Pontífice.
-📘 Fonte: Anuário Católico do Brasil 2015
+> *Eram os Legados Pontifícios junto aos Imperadores do Oriente.*  
+**Fonte:** Anuário Católico do Brasil 2015
 
-🕊️ Apocrisários
-Eram os Legados Pontifícios junto aos Imperadores do Oriente.
-📘 Fonte: Anuário Católico do Brasil 2015
+---
 
-🏛️ Arquidiocese
-📌 Classificação: Tipos de Circunscrição Eclesiástica
+### 📌 Arquidiocese  
+**Classificação:** Tipo de Circunscrição Eclesiástica
 
-(Sem definição ainda)
+> *(Definição pendente)*
 
-🏛️ Arquieparquia
-📌 Classificação: Tipos de Circunscrição Eclesiástica
+---
 
-(Sem definição ainda)
+### 📌 Arquieparquia  
+**Classificação:** Tipo de Circunscrição Eclesiástica
 
-🏛️ Assembleia Geral
-📌 Classificação: Instância
+> *(Definição pendente)*
 
-(Sem definição ainda)
+---
 
-⛪ Basílica (Instituição)
-📌 Classificação: Tipo de Instituição
+### 📌 Assembleia Geral  
+**Classificação:** Instância
 
-É o título dado pela Sé Apostólica, por meio da Congregação para o Culto Divino e a Disciplina dos Sacramentos, a uma igreja que possua importância histórica ou que possua grande afluxo de fiéis, como os santuários.
-📘 Fonte: Anuário Católico do Brasil 2015
+> *(Definição pendente)*
 
-🧑‍⚖️ Bispo
-📌 Classificação: Pessoa
+---
 
-Grau de ordenação
+### 📌 Basílica (Instituição)  
+**Classificação:** Tipo de Instituição
 
-⛪ Basílica (Paróquia)
-📌 Classificação: Tipo de Paróquia
+> *É o título dado pela Sé Apostólica, por meio da Congregação para o Culto Divino e a Disciplina dos Sacramentos, a uma igreja que possua importância histórica ou que possua grande afluxo de fiéis, como os santuários.*  
+**Fonte:** Anuário Católico do Brasil 2015
 
-(Sem definição ainda)
+---
+
+### 📌 Bispo  
+**Classificação:** Pessoa
+
+> *Grau de ordenação.*
+
+---
+
+### 📌 Basílica (Paróquia)  
+**Classificação:** Tipo de Paróquia
+
+> *(Definição pendente)*
+
+---
+
